@@ -39,7 +39,8 @@ Create enjoyable games while continuously improving programming, design and deve
 
 * Unity
 * C#
-* Blender
+* Python
+* Construct 3
 * Git
 * GitHub
 

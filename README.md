@@ -1,27 +1,52 @@
-# NebulaStack-Games
+# 🎮 NebulaStack – Games
 
-Game projects of NebulaStack. Classic remakes, original mechanics, and experimental genres.
+> **Unity • Game Development • Interactive Experiences**
 
-## 📂 Phase I
+## 📖 About
 
-- [Tetris](https://github.com/NebulaStack-prog/Tetris)
-- [Friday 13 – I](https://github.com/NebulaStack-prog/Friday13-I)
-- [Friday 13 – II](https://github.com/NebulaStack-prog/Friday13-II)
-- [Hunter Mike](https://github.com/NebulaStack-prog/HunterMike)
-- [Void Run](https://github.com/NebulaStack-prog/VoidRun)
-- [Diving Cats](https://github.com/NebulaStack-prog/DivingCats)
-- [Jump Cat](https://github.com/NebulaStack-prog/JumpCat)
-- [Memories](https://github.com/NebulaStack-prog/Memories)
+**NebulaStack – Games** is dedicated to the development of games, gameplay experiments and interactive prototypes.
 
-## 📂 Phase II (in development)
+Each project reflects another stage in learning game design, programming and visual storytelling.
 
-- [The One](https://github.com/NebulaStack-prog/TheOne)
-- [Friday 13 – III](https://github.com/NebulaStack-prog/Friday13-III)
+## 🎯 Mission
 
-## 🔗 Ecosystem
+Create enjoyable games while continuously improving programming, design and development skills.
 
-- [NebulaStack-Hub](https://github.com/NebulaStack-prog/NebulaStack-Hub)
-- [Telegram](https://t.me/NebulaStack)
-- [YouTube](https://youtube.com/@NebulaStack-Co)
+# 🚀 Projects
 
-© NebulaStack
+## Phase I
+
+| ID     | Project        | Status |
+| ------ | -------------- | :----: |
+| NS-002 | Friday 13 – I  |    ✅   |
+| NS-004 | Friday 13 – II |    ✅   |
+| NS-005 | Diving Cats    |    ✅   |
+| NS-006 | Hunter Mike    |    ✅   |
+| NS-007 | Tetris         |    ✅   |
+| NS-009 | Void Run       |    ✅   |
+| NS-010 | Jump Cat       |    ✅   |
+
+## Phase II
+
+*Coming Soon...*
+
+# 🔭 Upcoming Projects
+
+* 🔪 Friday 13 – III
+* 👁 The One
+
+# 🛠 Technology Stack
+
+* Unity
+* C#
+* Blender
+* Git
+* GitHub
+
+# 🌌 Philosophy
+
+Games are not only entertainment.
+
+Each project is another opportunity to study mechanics, creativity and software engineering through interactive experiences.
+
+> **Every game tells a story. Every project teaches something new.**

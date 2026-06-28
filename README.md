@@ -18,8 +18,8 @@ Create enjoyable games while continuously improving programming, design and deve
 
 | ID     | Project        | Status |
 | ------ | -------------- | :----: |
-| NS-002 | Friday 13 – I  |    ✅   |
-| NS-004 | Friday 13 – II |    ✅   |
+| NS-002 | [Friday 13 – I](https://github.com/NebulaStack-prog/Friday-13-I)  |    ✅   |
+| NS-004 | [Friday 13 – II](https://github.com/NebulaStack-prog/Friday-13-II) |    ✅   |
 | NS-005 | Diving Cats    |    ✅   |
 | NS-006 | Hunter Mike    |    ✅   |
 | NS-007 | Tetris         |    ✅   |

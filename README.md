@@ -16,15 +16,15 @@ Create enjoyable games while continuously improving programming, design and deve
 
 ## Phase I
 
-| ID     | Project        | Status |
-| ------ | -------------- | :----: |
-| NS-002 | [Friday 13 – I](https://github.com/NebulaStack-prog/Friday-13-I)  |    ✅   |
-| NS-004 | [Friday 13 – II](https://github.com/NebulaStack-prog/Friday-13-II) |    ✅   |
-| NS-005 | Diving Cats    |    ✅   |
-| NS-006 | Hunter Mike    |    ✅   |
-| NS-007 | Tetris         |    ✅   |
-| NS-009 | Void Run       |    ✅   |
-| NS-010 | Jump Cat       |    ✅   |
+| ID     | Project        |Links  | Status  |
+| ------ | -------------- |-------| :----:  |
+| NS-002 | Friday 13 – I  | [More...]()     |    ✅   |
+| NS-004 | Friday 13 – II |       |    ✅   |
+| NS-005 | Diving Cats    |       |    ✅   |
+| NS-006 | Hunter Mike    |       |    ✅   |
+| NS-007 | Tetris         |       |    ✅   |
+| NS-009 | Void Run       |       |    ✅   |
+| NS-010 | Jump Cat       |       |    ✅   |
 
 ## Phase II
 

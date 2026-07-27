@@ -28,7 +28,10 @@ Create enjoyable games while continuously improving programming, design and deve
 
 ## Phase II
 
-*Coming Soon...*
+| ID     | Project        |Links  | Status  |
+| ------ | -------------- |-------| :----:  |
+| NS-013 | Tic Tac Toe      | [More...](https://github.com/NebulaStack-prog/Tic-Tac-Toe)      |    ✅   |
+
 
 # 🔭 Upcoming Projects
 

@@ -35,7 +35,7 @@ Create enjoyable games while continuously improving programming, design and deve
 
 # 🔭 Upcoming Projects
 
-* 📄✂️🪨 Tic-tac-toe
+* 🧟‍♂️ Zombie Cave
 * 🟥🟧🟨 Tetro Rally
 * 🔪 Friday 13 – III
 * 👁 The One

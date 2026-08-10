@@ -31,7 +31,7 @@ Create enjoyable games while continuously improving programming, design and deve
 | ID     | Project        |Links  | Status  |
 | ------ | -------------- |-------| :----:  |
 | NS-013 | Tic Tac Toe      | [More...](https://github.com/NebulaStack-prog/Tic-Tac-Toe)      |    ✅   |
-| NS-014 | Tetro Rally      | [More...](https://github.com/NebulaStack-prog/JTetro-Rally)      |    🛠   |
+| NS-014 | Tetro Rally      | [More...](https://github.com/NebulaStack-prog/Tetro-Rally)      |    🛠   |
 | NS-016 | Zombie Cave | [More...](https://github.com/NebulaStack-prog/Zombie-Cave)      |🛠       |
 | NS-021 | The One      | [More...](https://github.com/NebulaStack-prog/The-One)      |  🛠     |
 | NS-022 | Friday 13 - III       | [More...](https://github.com/NebulaStack-prog/Friday-13-III)      |   🛠    |

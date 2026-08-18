@@ -40,13 +40,13 @@ Create enjoyable games while continuously improving programming, design and deve
 | NS-022 | Friday 13 - III       | [More...](https://github.com/NebulaStack-prog/Friday-13-III)      |   🛠    |
 
 
-# 🔭 Upcoming Projects
+## 🔭 Upcoming Projects
 
 * 🔪 Friday 13 – III
 * 👁 The One
 * **Gamer Zone (NS Launcher)**
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 * Unity
 * C#
@@ -55,7 +55,7 @@ Create enjoyable games while continuously improving programming, design and deve
 * Git
 * GitHub
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 Games are not only entertainment.
 

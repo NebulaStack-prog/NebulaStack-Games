@@ -36,8 +36,8 @@ Create enjoyable games while continuously improving programming, design and deve
 
 | ID     | Project        |Links  | Status  |
 | ------ | -------------- |-------| :----:  |
-| NS-021 | The One      | [More...](https://github.com/NebulaStack-prog/The-One)      |  🛠     |
-| NS-022 | Friday 13 - III       | [More...](https://github.com/NebulaStack-prog/Friday-13-III)      |   🛠    |
+| NS-020 | The One      | [More...](https://github.com/NebulaStack-prog/The-One)      |  🛠     |
+| NS-021 | Friday 13 - III       | [More...](https://github.com/NebulaStack-prog/Friday-13-III)      |   🛠    |
 
 
 ## 🔭 Upcoming Projects

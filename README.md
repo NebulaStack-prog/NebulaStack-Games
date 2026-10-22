@@ -19,7 +19,7 @@ Create enjoyable games while continuously improving programming, design and deve
 | NS-002 | Friday 13 – I  | [More...](https://github.com/NebulaStack-prog/Friday-13-I)     |    ✅   |
 | NS-004 | Friday 13 – II | [More...](https://github.com/NebulaStack-prog/Friday-13-II)      |    ✅   |
 | NS-005 | Diving Cats    | [More...](https://github.com/NebulaStack-prog/Diving-Cats)      |    ✅   |
-| NS-006 | Hunter Mike    | [More...](https://github.com/NebulaStack-prog/Hunter-Mike)      |    ✅   |
+| NS-006 | Industrial Zero| [More...](https://github.com/NebulaStack-prog/Hunter-Mike)      |    ✅   |
 | NS-007 | Tetris         | [More...](https://github.com/NebulaStack-prog/Tetris)      |    ✅   |
 | NS-009 | Void Run       | [More...](https://github.com/NebulaStack-prog/Void-Run)      |    ✅   |
 | NS-010 | Jump Cat       | [More...](https://github.com/NebulaStack-prog/Jump-Cat)      |    ✅   |

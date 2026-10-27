@@ -34,13 +34,6 @@ Create enjoyable games while continuously improving programming, design and deve
 | **NS-020** | **The One**      | [More...](https://github.com/NebulaStack-prog/The-One)      |  🛠     |
 | **NS-021** | **Friday 13 - III**       | [More...](https://github.com/NebulaStack-prog/Friday-13-III)      |   🛠    |
 
-
-## 🔭 Upcoming Projects
-
-* 🔪 Friday 13 – III
-* 👁 The One
-* **Gamer Zone (NS Launcher)**
-
 ## 🛠 Technology Stack
 
 * Unity
